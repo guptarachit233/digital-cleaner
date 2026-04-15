@@ -2,7 +2,7 @@ import os
 import shutil
 
 #  Change this to your folder path
-SOURCE_FOLDER = "C:/Users/Public/Documents"
+SOURCE_FOLDER = "C:/Users/rachit gupta/OneDrive/Desktop"
 
 #  File type categories
 FILE_TYPES = {
